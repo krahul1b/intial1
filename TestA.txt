@@ -2,4 +2,5 @@ Line 1 from local master
 Line 2 from local master
 Line 3 from feature
 Line 3 from remote master
+Line 4 from feature
 Line 4 from remote master
